@@ -40,4 +40,3 @@ def mergesort(nums,low,high):
 
 list =[5,3,2,1,4]#[1,5,2,7,8,9,3,4,10,3,1000,23,456,123] #
 print(mergesort(list,0,len(list)-1))
-print(list)
